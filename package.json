@@ -21,7 +21,7 @@
     "express": "^4.0.0",
     "mout": "^1.0.0",
     "npm": "^7.5.2",
-    "python-shell": "^2.0.3",
+    "python-shell": "^3.0.0",
     "shelljs": "^0.8.2",
     "stream-split": "^1.1.0",
     "stream-throttle": "^0.1.3",
